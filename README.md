@@ -2,7 +2,7 @@
 
 # Hi, I'm Tony Hsu 👋
 
-**Wi-Fi 6/7 firmware lead · builder of AI software** — Hsinchu, Taiwan
+**Technical Manager, Wi-Fi 6/7 (Qualcomm) · builder of AI software** — Hsinchu, Taiwan
 
 - 13+ years in embedded and communications software: Wi-Fi 6/7 access points on Qualcomm IPQ at **Browan Communications**; GPON, Wi-Fi routers and 5G MiFi on Broadcom, Qualcomm, MediaTek and Airoha at **Foxconn (Hon Hai)**.
 - After hours I build AI tools end to end — computer vision, real-time speech and media, Wi-Fi analyzers — and run AI coding agents on real hardware under tested rules.
